@@ -1,0 +1,24 @@
+body{
+    background-color: rgb(205, 185, 223);
+    text-align: center;
+}
+
+h1{
+    text-align: center;
+}
+
+
+li{
+    list-style: none;
+    display: inline;
+    padding: 5px;
+    
+}
+ul{
+    text-align: center;
+}
+img{
+    width: 30%;
+    height:30%;
+    padding: 25px;
+}
